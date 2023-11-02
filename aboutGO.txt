@@ -1,0 +1,7 @@
+Go is a statically typed compiled language.
+
+Explicitly declaring variables doesn't impact its runtime.
+Nether implicit declaration makes it a dynamically typed language.
+
+Go retains its static type system even when variables are declared implicitly,
+    and type safety is enforced at compile-time.
